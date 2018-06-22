@@ -16,6 +16,8 @@ function validate(operator, numOne, numTwo) {
   
 }
 
+function answe
+
 
   //function myCalculator(a, b) {
   //if userInput = '+' {
