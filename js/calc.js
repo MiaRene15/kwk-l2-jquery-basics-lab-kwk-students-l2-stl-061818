@@ -12,12 +12,12 @@ function validate(operator, numOne, numTwo) {
   
 }
 
-//function myCalculator(a, b) {
-  if userInput = '+' {
-    numOne + numTwo
-  } else if userInput = '-' {
-    numOne - numTwo
-  }
-  
+
+  //function myCalculator(a, b) {
+  //if userInput = '+' {
+ //   numOne + numTwo
+ // } else if userInput = '-' {
+ //   numOne - numTwo
+ // }
 }
 
