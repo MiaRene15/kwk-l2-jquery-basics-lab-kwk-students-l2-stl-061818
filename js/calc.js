@@ -16,7 +16,7 @@ function validate(operator, numOne, numTwo) {
   
 }
 
-function answe
+function answer
 
 
   //function myCalculator(a, b) {
