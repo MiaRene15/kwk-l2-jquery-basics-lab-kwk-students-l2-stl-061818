@@ -5,9 +5,9 @@ let numTwo = $('#number2')
 
 //function myCalculator(a, b) {
   if userInput = '+' {
-    a + b 
+    numOne + numTwo
   } else if userInput = '-' {
-    a - b
+    numOne - numTwo
   }
   
 }
