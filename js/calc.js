@@ -7,7 +7,9 @@ let operator = $('#operation')
 
 let result = $('#result')
 
-function 
+function validate(operator, numOne, numTwo) {
+  
+}
 
 //function myCalculator(a, b) {
   if userInput = '+' {
