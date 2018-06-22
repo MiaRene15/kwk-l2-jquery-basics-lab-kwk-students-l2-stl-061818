@@ -4,5 +4,5 @@ let numOne = a
 let numTwo = b 
 
 function myCalculator(a, b) {
-  
+  if userInput 
 }
