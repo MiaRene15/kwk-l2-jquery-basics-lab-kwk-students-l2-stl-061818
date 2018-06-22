@@ -7,7 +7,7 @@ let operator = $('#operation')
 
 
 function validate(operator, numOne, numTwo) {
-  if (operator == '+' || operator == '-' || operator == '*' || operator == '/') { if (isNaN(numOne) || numOne === '' || isNaN(numTwo) || numTwo === '' ) { $('#result').text('isNaN(numOne) || numOne === '')
+  if (operator == '+' || operator == '-' || operator == '*' || operator == '/') { if (isNaN(numOne) || numOne === '' || isNaN(numTwo) || numTwo === '' ) { $('#result').text("Sorry, one of those is not a valid number!")
     
   }
   
