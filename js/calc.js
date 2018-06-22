@@ -9,6 +9,7 @@ let operator = $('#operation')
 function validate(operator, numOne, numTwo) {
   if (operator == '+' || operator == '-' || operator == '*' || operator == '/')
   
+  
 }
 
 //function myCalculator(a, b) {
