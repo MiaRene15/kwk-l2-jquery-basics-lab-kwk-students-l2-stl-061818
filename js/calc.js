@@ -4,7 +4,9 @@
 //let numTwo = b 
 
 //function myCalculator(a, b) {
-  if userInput 
+  if userInput {
+    
+  }
   
 }
 
