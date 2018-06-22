@@ -12,7 +12,6 @@ function validate(operator, numOne, numTwo) {
   { $('#result').text("Sorry, one of those is not a valid number!");} else { answer(operator, numOne, numTwo);}
   else {$('#result').html("Sorry, that is not a valid operator");
   
-  
   }
   
 }
