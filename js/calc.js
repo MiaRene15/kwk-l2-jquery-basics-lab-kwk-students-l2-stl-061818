@@ -10,6 +10,7 @@ function validate(operator, numOne, numTwo) {
   if (operator == '+' || operator == '-' || operator == '*' || operator == '/')
   
   
+  
 }
 
 
