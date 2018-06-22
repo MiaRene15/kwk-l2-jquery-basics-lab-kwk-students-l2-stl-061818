@@ -3,7 +3,7 @@
 let numOne = $('#number1')
 let numTwo = $('#number2')
 
-let operator = $('operaration')
+let operator = $('operation')
 //function myCalculator(a, b) {
   if userInput = '+' {
     numOne + numTwo
