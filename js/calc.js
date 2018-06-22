@@ -7,6 +7,8 @@ let operator = $('#operation')
 
 let result = $('#result')
 
+function 
+
 //function myCalculator(a, b) {
   if userInput = '+' {
     numOne + numTwo
