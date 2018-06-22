@@ -5,9 +5,9 @@ let numTwo = $('#number2')
 
 let operator = $('#operation')
 
-let result = $('#result')
 
 function validate(operator, numOne, numTwo) {
+  if 
   
 }
 
