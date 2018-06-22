@@ -7,7 +7,7 @@ let operator = $('#operation')
 
 
 function validate(operator, numOne, numTwo) {
-  if operator == '+'
+  if (operator == '+')
   
 }
 
