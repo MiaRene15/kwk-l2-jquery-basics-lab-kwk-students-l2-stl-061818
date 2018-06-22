@@ -1,7 +1,7 @@
 //add your code here
 
-//let numOne = a
-//let numTwo = b 
+let numOne = $('#number1')
+let numTwo = $('#number2')
 
 //function myCalculator(a, b) {
   if userInput = '+' {
